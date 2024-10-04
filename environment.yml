@@ -1,0 +1,10 @@
+name: unitednet-notebooks
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python 3.9.*
+  - pytorch
+  - pytorch-cuda
+  - pip
+  - setuptools
